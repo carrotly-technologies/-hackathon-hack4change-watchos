@@ -453,10 +453,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"test Watch App/Preview Content\"";
-				DEVELOPMENT_TEAM = A3X4GT89QA;
+				DEVELOPMENT_TEAM = 2V8M9X977X;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = test;
+				INFOPLIST_KEY_NSMotionUsageDescription = niger;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -483,10 +484,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"test Watch App/Preview Content\"";
-				DEVELOPMENT_TEAM = A3X4GT89QA;
+				DEVELOPMENT_TEAM = 2V8M9X977X;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = test;
+				INFOPLIST_KEY_NSMotionUsageDescription = niger;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -511,7 +513,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = A3X4GT89QA;
+				DEVELOPMENT_TEAM = 2V8M9X977X;
 				INFOPLIST_KEY_CFBundleDisplayName = test;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = test.test;
@@ -526,7 +528,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = A3X4GT89QA;
+				DEVELOPMENT_TEAM = 2V8M9X977X;
 				INFOPLIST_KEY_CFBundleDisplayName = test;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = test.test;
