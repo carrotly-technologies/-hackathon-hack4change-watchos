@@ -456,7 +456,9 @@
 				DEVELOPMENT_TEAM = 2V8M9X977X;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "test-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = test;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSMotionUsageDescription = niger;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
@@ -487,7 +489,9 @@
 				DEVELOPMENT_TEAM = 2V8M9X977X;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "test-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = test;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSMotionUsageDescription = niger;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
